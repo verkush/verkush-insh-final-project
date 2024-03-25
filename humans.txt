@@ -3,7 +3,7 @@
 
 # TEAM
 
-    AYUSH -- <role> -- <twitter>
+    AYUSH -- Developer -- <twitter>
 
 # THANKS
 
